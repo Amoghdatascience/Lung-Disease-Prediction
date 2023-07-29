@@ -10,7 +10,7 @@ This repository is for our B.Tech major project. This repository contains a Conv
 5.) Evaluation<br>
 6.) Results<br>
 
-**Introduction**<br>
+_ _Introduction_ _<br>
 The early detection of lung diseases play a crucial role in improving patient outcomes. This project aims to build a deep learning model based on CNNs that can analyze lung images and predict the presence of various lung diseases, such as pneumonia,lung opacity, covid, and others.
 
 Dataset<br>
