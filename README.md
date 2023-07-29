@@ -18,5 +18,7 @@ The dataset used in this project is COVID-19 Radiography dataset. It includes im
 
 Model Architecture
 The CNN model architecture used for this project is designed to efficiently process lung images and perform disease classification. Details about the layers and configuration of the CNN are as given below:<br>
+![IMG_20230729_220503_505](https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/280d342c-27a0-41a8-968c-c3638188e3a2)
+
 
 In this project, we are trying to predict whether a person has COVID-19 ,Lung Opacity ,Viral Pneumonia or it is normal from their Chest X-Ray (CXR) scan by image classification using Convolutional Neural Network. The tool used for implementation are TensorFlow and Keras. 
