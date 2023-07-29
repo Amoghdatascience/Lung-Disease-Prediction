@@ -4,9 +4,9 @@ This repository is for our B.Tech major project. This repository contains a Conv
 
 # Table of Contents
 1.) Introduction<br>
-2.) Dataset
-3.) Model Architecture
-4.) Training
-5.) Evaluation
-6.) Results
+2.) Dataset<br>
+3.) Model Architecture<br>
+4.) Training<br>
+5.) Evaluation<br>
+6.) Results<br>
 In this project, we are trying to predict whether a person has COVID-19 ,Lung Opacity ,Viral Pneumonia or it is normal from their Chest X-Ray (CXR) scan by image classification using Convolutional Neural Network. The tool used for implementation are TensorFlow and Keras. 
