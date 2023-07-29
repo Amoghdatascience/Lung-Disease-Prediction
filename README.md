@@ -16,7 +16,7 @@ The early detection of lung diseases play a crucial role in improving patient ou
 Dataset<br>
 The dataset used in this project is COVID-19 Radiography dataset. It includes images of healthy lungs and lungs affected by different diseases. The dataset is divided into training, validation, and test sets to facilitate model training, evaluation, and testing.
 
-Model Architecture
+<b>Model Architecture</b><br>
 The CNN model architecture used for this project is designed to efficiently process lung images and perform disease classification. Details about the layers and configuration of the CNN are as given below:<br>
 ![IMG_20230729_220503_505](https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/280d342c-27a0-41a8-968c-c3638188e3a2)
 
