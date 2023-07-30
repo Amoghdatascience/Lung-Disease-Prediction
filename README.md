@@ -29,7 +29,7 @@ The result of the model evaluation including accuracy for each class will be dis
 # Model Deployment
 The most important step in any Data Science project is the model deployment. We have a lot of options in python for deploying our model. Some popular frameworks are Flask and Django. But the issue with using these frameworks is that we should have some knowledge of HTML, CSS, and JavaScript. Keeping these prerequisites streamlit was being used for model deployment.<br>
 
-<img width="928" alt="Screenshot 2023-07-30 203200" src="https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/1f3d77cc-d22a-4f2b-9221-9f31652b41d6">
+<img width="928" alt="Screenshot 2023-07-30 203200" src="https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/b847f939-151d-4e55-8dd9-970d2b881796">
 
 
 
