@@ -26,8 +26,10 @@ The training process involves forward propagation in which the labeled lung imag
 Result<br>
 The result of the model evaluation including accuracy for each class will be displayed. The result will predict whether a person has COVID-19 ,Lung Opacity ,Viral Pneumonia or it is normal from their Chest X-Ray (CXR) scan by image classification using Convolutional Neural Network.
 
+# Model Deployment
 The most important step in any Data Science project is the model deployment. We have a lot of options in python for deploying our model. Some popular frameworks are Flask and Django. But the issue with using these frameworks is that we should have some knowledge of HTML, CSS, and JavaScript. Keeping these prerequisites streamlit was being used for model deployment.<br>
 
-<img width="960" alt="Screenshot 2023-07-30 203200" src="https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/0c347fd7-8f19-48b4-965f-d6f08d4cb708">
+<img width="928" alt="Screenshot 2023-07-30 203200" src="https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/1f3d77cc-d22a-4f2b-9221-9f31652b41d6">
+
 
 
