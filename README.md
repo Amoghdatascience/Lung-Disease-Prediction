@@ -27,7 +27,7 @@ Result<br>
 The result of the model evaluation including accuracy for each class will be displayed. The result will predict whether a person has COVID-19 ,Lung Opacity ,Viral Pneumonia or it is normal from their Chest X-Ray (CXR) scan by image classification using Convolutional Neural Network.
 
 # Model Deployment
-The most important step in any Data Science project is the model deployment. We have a lot of options in python for deploying our model. Some popular frameworks are Flask and Django. But the issue with using these frameworks is that we should have some knowledge of HTML, CSS, and JavaScript. Keeping these prerequisites streamlit was being used for model deployment.<br>
+The most important step in any Data Science project is the model deployment.In this project streamlit was used for deploying the model.Streamlit is an open source python based framework for developing and deploying interactive data science dashboards and machine learning models.Streamlit allows you to create a stunning-looking application with only a few lines of code.
 
 <img width="928" alt="Screenshot 2023-07-30 203200" src="https://github.com/ayverm/Lung-Disease-Prediction/assets/91595998/b847f939-151d-4e55-8dd9-970d2b881796">
 
